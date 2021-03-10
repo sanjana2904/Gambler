@@ -6,8 +6,7 @@ namespace Gambler
     {
         static void Main(string[] args)
         {
-            int cash = 100;
-            int bet = 1;
+            Console.WriteLine("Welcome to Gaming ")
 
         }
     }
